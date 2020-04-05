@@ -1,3 +1,3 @@
-module.exports = {
-    publicPath: '/MyCvVue/'
-    }
+// module.exports = {
+//     publicPath: '/MyCvVue/'
+//     }
